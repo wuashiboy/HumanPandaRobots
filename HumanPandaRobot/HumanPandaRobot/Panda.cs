@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace HumanPandaRobot
 {
-    class Panda
+    public class Panda : Being
     {
+        
     }
 }

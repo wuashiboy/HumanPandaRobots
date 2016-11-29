@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Being.cs" />
+    <Compile Include="Friend.cs" />
     <Compile Include="Human.cs" />
     <Compile Include="Panda.cs" />
     <Compile Include="Program.cs" />

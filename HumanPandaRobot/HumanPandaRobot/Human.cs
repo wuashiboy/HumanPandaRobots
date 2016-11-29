@@ -6,10 +6,8 @@ using System.Threading.Tasks;
 
 namespace HumanPandaRobot
 {
-    public class Human
+    public class Human : Being
     {
-        public string Name { get; set; }
-        public string Age { get; set; }
-
+        
     }
 }
