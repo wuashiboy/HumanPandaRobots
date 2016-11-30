@@ -17,6 +17,8 @@ namespace HumanPandaRobot
             panda.Eat("Bamboo");
             panda.GoToSleep();
             Console.ReadLine();
+            
+            
 
             var Hello = new Friend();
             var human = new Human();
